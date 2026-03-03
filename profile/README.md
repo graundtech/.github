@@ -40,7 +40,7 @@ Open‑source é parte da nossa cultura: apoiamos iniciativas colaborativas e ma
 
 - Email: **contato@graundtech.com.br**  
 - LinkedIn / GitHub: [GraundTech](https://linkedin.com/graundtech)  
-- Site institucional: (em breve no ar)
+- Site institucional: https://graund.tech
 
 ---
 
