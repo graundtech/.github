@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo-svg.svg" alt="Logo IndicaCode" width="200" />
+  <img src="../images/icon.jpg" alt="Logo GraundTech" width="200" />
 </p>
 
 # IndicaCode
@@ -38,8 +38,8 @@ Open‑source é parte da nossa cultura: apoiamos iniciativas colaborativas e ma
 
 ## 📬 Contato
 
-- Email: **contato@indicacode.com.br**  
-- LinkedIn / GitHub: [IndicaIn](https://linkedin.com/indicacode)  
+- Email: **contato@graundtech.com.br**  
+- LinkedIn / GitHub: [GraundTech](https://linkedin.com/graundtech)  
 - Site institucional: (em breve no ar)
 
 ---
