@@ -1,30 +1,57 @@
 <p align="center">
-  <img src="../images/icon.jpg" alt="Logo GraundTech" width="200" />
+  <img src="../images/icon.jpg" alt="Graund logo" width="160" />
 </p>
 
-# IndicaCode
 
-🎯 **Soluções full‑stack que transformam desafios reais em resultados.**
+<h1 align="center">Graund</h1>
 
-Somos uma empresa brasileira de software fundada por desenvolvedores full‑stack e empreendedores. Acreditamos que **resolver problemas com tecnologia é a base de qualquer negócio**.
+<p align="center">
+<strong>Base forte. Tecnologia inteligente.</strong>
+</p>
+
+
+<p align="center">
+Construímos software sólido para resolver problemas reais de empresas.
+</p>
 
 ---
 
-## ⚙️ Nossa stack
+## Sobre
+
+A Graund é uma empresa brasileira de desenvolvimento de software fundada por desenvolvedores full-stack e empreendedores.
+
+Nosso foco é construir sistemas confiáveis, escaláveis e bem estruturados, capazes de sustentar operações reais de negócios.
+
+Acreditamos que tecnologia eficiente nasce de três pilares:  
+	•	arquitetura bem definida  
+	•	código simples e legível  
+	•	soluções orientadas ao problema  
+
+<br/> 
+
+---
+
+## Stack Principal
 
 - **Backend**: .NET Core (WebAPI, MVC, Razor)
 - **Frontend web**: ReactJS, NextJS
-- **Banco de dados**: RavenDB
-- **Desktop / POS**: .NET Windows Forms, integrando com componentes profissionalizantes
+- **Frontend desktop**: ElectronJS
+- **Banco de dados**: RavenDB, PostgreSQL
 
 ---
 
+
 ## 🚀 Projetos em destaque
 
-### App Turístico
-Plataforma para moradores e turistas de Caldas Novas (GO) com vagas de emprego, serviços locais e, em breve, e‑commerce local com modelo de comissão.
+### <u>App Turístico</u>
+Aplicação voltada para moradores e turistas da região, reunindo:  
+	•	oportunidades de emprego  
+	•	serviços locais  
+	•	marketplace regional (em desenvolvimento)  
 
-### ERP  
+<br/>
+
+### <u>ERP</u>  
 (Em Desenvolvimento)
 
 ---
@@ -38,8 +65,8 @@ Open‑source é parte da nossa cultura: apoiamos iniciativas colaborativas e ma
 
 ## 📬 Contato
 
-- Email: **contato@graundtech.com.br**  
-- LinkedIn / GitHub: [GraundTech](https://linkedin.com/graundtech)  
+- Email: <em breve>  
+- LinkedIn: [Graund on LinkedIn](https://linkedin.com/graundtech)  
 - Site institucional: https://graund.tech
 
 ---
