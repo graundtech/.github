@@ -56,6 +56,20 @@ Aplicação voltada para moradores e turistas da região, reunindo:
 
 ---
 
+## Open source Fluent
+
+Mantemos projetos open source inspirados no design system Fluent da Microsoft, com foco em componentes reutilizáveis, design tokens e experiências consistentes entre plataformas.
+
+### [fluent2_kit](https://github.com/graundtech/fluent2_kit)
+
+Biblioteca Flutter baseada no Fluent 2, publicada no `pub.dev`, com componentes, tema e tokens para criar interfaces coesas em aplicativos mobile.
+
+### [fluent2-react-kit](https://github.com/graundtech/fluent2-react-kit)
+
+Biblioteca React em desenvolvimento, planejada para publicação no `npm` e distribuição também como registry compatível com `shadcn`, levando a mesma inspiração Fluent para aplicações web.
+
+---
+
 ## 💡 Nossa visão
 
 Transformar empresas por meio de software bem‑estruturado, com governança, escalabilidade e foco em produtividade real.  
