@@ -56,7 +56,7 @@ Aplicação voltada para moradores e turistas da região, reunindo:
 
 ---
 
-## Open source Fluent
+## Nossos projetos Open Source
 
 Mantemos projetos open source inspirados no design system Fluent da Microsoft, com foco em componentes reutilizáveis, design tokens e experiências consistentes entre plataformas.
 
