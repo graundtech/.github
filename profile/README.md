@@ -31,31 +31,6 @@ Acreditamos que tecnologia eficiente nasce de três pilares:
 
 ---
 
-## Stack Principal
-
-- **Backend**: .NET Core (WebAPI, MVC, Razor)
-- **Frontend web**: ReactJS, NextJS
-- **Frontend desktop**: ElectronJS
-- **Banco de dados**: RavenDB, PostgreSQL
-
----
-
-
-## 🚀 Projetos em destaque
-
-### <u>App Turístico</u>
-Aplicação voltada para moradores e turistas da região, reunindo:  
-	•	oportunidades de emprego  
-	•	serviços locais  
-	•	marketplace regional (em desenvolvimento)  
-
-<br/>
-
-### <u>ERP</u>  
-(Em Desenvolvimento)
-
----
-
 ## Nossos projetos Open Source
 
 Mantemos projetos open source inspirados no design system Fluent da Microsoft, com foco em componentes reutilizáveis, design tokens e experiências consistentes entre plataformas.
