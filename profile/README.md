@@ -27,6 +27,10 @@ Acreditamos que tecnologia eficiente nasce de três pilares:
 	•	código simples e legível  
 	•	soluções orientadas ao problema  
 
+Trabalhamos para transformar empresas por meio de software bem‑estruturado, com governança, escalabilidade e foco em produtividade real.
+
+Open‑source é parte da nossa cultura: apoiamos iniciativas colaborativas e mantemos princípios transparentes.
+
 <br/> 
 
 ---
@@ -42,13 +46,6 @@ Biblioteca Flutter baseada no Fluent 2, publicada no `pub.dev`, com componentes,
 ### [fluent2-react-kit](https://github.com/graundtech/fluent2-react-kit)
 
 Biblioteca React em desenvolvimento, planejada para publicação no `npm` e distribuição também como registry compatível com `shadcn`, levando a mesma inspiração Fluent para aplicações web.
-
----
-
-## 💡 Nossa visão
-
-Transformar empresas por meio de software bem‑estruturado, com governança, escalabilidade e foco em produtividade real.  
-Open‑source é parte da nossa cultura: apoiamos iniciativas colaborativas e mantemos princípios transparentes.
 
 ---
 
